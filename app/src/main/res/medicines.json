@@ -1,0 +1,58 @@
+[
+    {
+      "id" : 1,
+      "name" : "Ketonal active",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : ""
+    },
+    {
+      "id" : 2,
+      "name" : "Ibuprom",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : ""
+    },
+    {
+      "id" : 3,
+      "name" : "Rutinoscorbin",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : ""
+    },
+    {
+      "id" : 4,
+      "name" : "Gripex",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : ""
+    }
+ ]
