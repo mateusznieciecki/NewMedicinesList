@@ -15,12 +15,19 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
+
+    public interface OnItemClickListener {
+        void onItemClick(Medicine item, int position);
+    }
+
+    private final OnItemClickListener listener;
     LayoutInflater inflater;
     List<Medicine> medicines;
 
-    public Adapter(Context ctx, List<Medicine> medicines){
+    public Adapter(Context ctx, List<Medicine> medicines, OnItemClickListener listener){
         this.inflater = LayoutInflater.from(ctx);
         this.medicines = medicines;
+        this.listener = listener;
     }
 
 
@@ -36,6 +43,9 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
         holder.name.setText(medicines.get(position).getName());
         holder.type.setText(medicines.get(position).getType());
         Picasso.get().load(medicines.get(position).getPicture()).into(holder.picture);
+        holder.itemView.setOnClickListener(view -> {
+            listener.onItemClick(medicines.get(position), position);
+        });
     }
 
     @Override
