@@ -1,0 +1,58 @@
+[
+    {
+      "id" : 1,
+      "name" : "Ketonal active",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Ibuprom",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Ból",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/826767b6-scale-350x350.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "Rutinoscorbin",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Przeziebienie",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/eac46038-scale-350x350.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "Gripex",
+      "type" : "Kapsulki",
+      "quantity" : "24",
+      "released" : "2016-07-20",
+      "purpose" : "Goraczka",
+      "genre" : "literatura młodzieżowa",
+      "manufacturer" : " Sandoz GmbH",
+      "numberOfRatings" : "78479",
+      "allergy" : "xyz",
+      "price" : "14.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/e079e47d-scale-350x350.jpg"
+    }
+ ]
