@@ -1,0 +1,192 @@
+[
+    {
+      "id" : 1,
+      "name" : "Ketonal active",
+      "type" : "Kapsulki",
+      "quantity" : "10",
+      "available" : "Dostępne",
+      "purpose" : "Ból o umiarnowanym nasileniu różnego pochodzenia np. mięśniowy, kostno-stawowy, ból głowy",
+      "manufacturer" : "Sandoz GmbH",
+      "allergens" : {
+        "allergen1" : "ketoprofen",
+        "allergen2" : "salicylan"
+      },
+      "activeSubstance" : {
+        "amount1" : "100mg",
+        "amount2" : "50mg"
+      },
+      "price" : "9.99",
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Ibuprom",
+      "type" : "Tabletki powlekane",
+      "quantity" : "50",
+      "available" : "Dostępne",
+      "purpose" : "Ból o różnej etiologii o słabym lub umiarkowanym nasileniu (bóle głowy, zębów, mięśni, bóle okolicy lędźwiowo-krzyżowej, bóle kostno-stawowe), gorączka w przebiegu przeziębienia, grypy lub innych chorób zakaźnych",
+      "manufacturer" : "US Pharmacia",
+      "allergens" : {
+        "allergen1" : "ibuprofen",
+        "allergen2" : "NLPZ"
+      },
+      "activeSubstance" : {
+        "amount1" : "200mg",
+        "amount2" : "400mg"
+      },
+      "price" : "27.10",
+      "picture" : "https://azcdn.doz.pl/image/d/product/826767b6-scale-350x350.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "Rutinoscorbin",
+      "type" : "Kapsulki",
+      "quantity" : "150",
+      "available" : "Dostępne",
+      "purpose" : "Stany niedoboru i zwiększonego zapotrzebowania na kwas askorbinowy (przeziębienie, zakażenia wirusowe np. grypa)",
+      "manufacturer" : "GSK Consumer Healthcare",
+      "allergens" : {
+        "allergen1" : "kwas askorbionowy",
+        "allergen2" : "rutozyd"
+      },
+      "activeSubstance" : {
+        "amount1" : "100mg kwasu askorbinowego + 25mg rutozydu",
+        "amount2" : "120mg kwasu askorbinowego + 25mg rutozydu"
+      },
+      "price" : "16.05",
+      "picture" : "https://azcdn.doz.pl/image/d/product/eac46038-scale-350x350.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "Gripex",
+      "type" : "Tabletki powlekane",
+      "quantity" : "10",
+      "available" : "Dostępne",
+      "purpose" : "Ból",
+      "manufacturer" : "US Pharmacia",
+      "allergens" : {
+        "allergen1" : "paracetamol",
+        "allergen2" : "pseudoefedryna"
+      },
+      "activeSubstance" : {
+        "amount1" : "325mg paracetamolu + 30mg chlorowodorku psedoefedryny + 10mg dekstrometorfanu",
+        "amount2" : "500mg paracetamolu + 30mg chlorowodorku psedoefedryny + 15mg dekstrometorfanu"
+      },
+      "price" : "17.50",
+      "picture" : "https://azcdn.doz.pl/image/d/product/e079e47d-scale-350x350.jpg"
+    },
+    {
+      "id" : 5,
+      "name" : "No-Spa",
+      "type" : "Tabletki",
+      "quantity" : "20",
+      "available" : "Dostępne",
+      "purpose" : "Stany skurczowe mięśni gładkich związane z chorobami: dróg żółciowych np. zapalenie pęcherzyka żółciowego, dróg moczowych np. kamica nerkowa, przewodu pokarmowego np.choroba wrzodowa żołądka. Wspomagająco przy bolesnym miesiączkowaniu",
+      "manufacturer" : "Opella Healthcare",
+      "allergens" : {
+        "allergen1" : "drotaweryna",
+        "allergen2" : "orzeszki ziemne"
+      },
+      "activeSubstance" : {
+        "amount1" : "40mg",
+        "amount2" : "80mg"
+      },
+      "price" : "14.85",
+      "picture" : "https://azcdn.doz.pl/image/d/product/03bd9f9a-scale-350x350.jpg"
+    },
+    {
+      "id" : 6,
+      "name" : "Laremid",
+      "type" : "Tabletki",
+      "quantity" : "20",
+      "available" : "Niedostępne",
+      "purpose" : "Objawowe leczenie ostrej i przewlekłej biegunki",
+      "manufacturer" : "Polfa Warszawa",
+      "allergens" : {
+        "allergen1" : "loperamid",
+        "allergen2" : "stearynian magnezu"
+      },
+      "activeSubstance" : {
+        "amount1" : "2mg",
+        "amount2" : "4mg"
+      },
+      "price" : "13.04",
+      "picture" : "https://azcdn.doz.pl/image/d/product/8aae6fe9-scale-350x350.jpg"
+    },
+    {
+      "id" : 7,
+      "name" : "Octenisept",
+      "type" : "Aerozol",
+      "quantity" : "1",
+      "available" : "Niedostępne",
+      "purpose" : "Dezynfekcja ran",
+      "manufacturer" : "Shulke Mayer",
+      "allergens" : {
+        "allergen1" : " dichlorowodorek oktenidyny",
+        "allergen2" : "fenoksyetanol"
+      },
+      "activeSubstance" : {
+        "amount1" : "50ml",
+        "amount2" : "250ml"
+      },
+      "price" : "19.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/33e46745-scale-350x350.jpg"
+    },
+    {
+      "id" : 8,
+      "name" : "Altacet",
+      "type" : "Żel",
+      "quantity" : "1",
+      "available" : "Niedostępne",
+      "purpose" : "Polecany na stłuczenia, obrzęki pourazowe oraz oparzeniowe I stopnia",
+      "manufacturer" : "Emo Farm",
+      "allergens" : {
+        "allergen1" : "octowinianu glinu",
+        "allergen2" : "lewomentol"
+      },
+      "activeSubstance" : {
+        "amount1" : "75g",
+        "amount2" : "125g"
+      },
+      "price" : "12.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/03112767-scale-350x350.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "Sinecod",
+      "type" : "Syrop",
+      "quantity" : "1,5mg/ml",
+      "available" : "Dostępne",
+      "purpose" : "Objawowe leczenie kaszlu o różnej etiologii",
+      "manufacturer" : "Novartis Consumer",
+      "allergens" : {
+        "allergen1" : "cytrynian butamiratu",
+        "allergen2" : "sorbitol"
+      },
+      "activeSubstance" : {
+        "amount1" : "200ml",
+        "amount2" : "250ml"
+      },
+      "price" : "39.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/7956106b-scale-350x350.jpg"
+    },
+    {
+      "id" : 10,
+      "name" : "Parametamol Hasco",
+      "type" : "Czopek",
+      "quantity" : "10",
+      "available" : "Niedostępne",
+      "purpose" : "Gorączka i bóle o różnej etiologii u dzieci",
+      "manufacturer" : "Hasco-Lek",
+      "allergens" : {
+        "allergen1" : " paracetamol",
+        "allergen2" : "lecytyna"
+      },
+      "activeSubstance" : {
+        "amount1" : "125mg",
+        "amount2" : "250mg"
+      },
+      "price" : "4.99",
+      "picture" : "https://azcdn.doz.pl/image/d/product/ea662961-scale-350x350.jpg"
+    }
+ ]
